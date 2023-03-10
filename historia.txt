@@ -1,3 +1,9 @@
 Hola que tal soy Daniel, tengo 22 años + vida + obra maestra 
+<<<<<<< HEAD
 
 Hola Soy Fernando, tengo 22 años y soy casi ingeniero de sistemas
+=======
+prueba
+Probemos sin pull
+Buenas
+>>>>>>> 3029d99180f2f976e838938085dd9824f78f926d
